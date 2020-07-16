@@ -4,7 +4,7 @@
 
 ![Badge](https://img.shields.io/badge/Bootcamp%20Rocketseat-React%20Native-blueviolet) ![Badge](https://img.shields.io/badge/types-Flow%20%7C%20TypeScript-blue)
 
-> Status do Projeto: :warning: Em desenvolvimento
+> Status do Projeto: :heavy_check_mark: Concluído
 
 ## Descrição do projeto
 
@@ -19,11 +19,11 @@
 
 :heavy_check_mark: Listar produtos da API.
 
-:x: Adicionar e exibir itens ao carrinho de compras.
+:heavy_check_mark: Adicionar e exibir itens ao carrinho de compras.
 
-:x: Diminuir e aumentar a quantidade de itens do carrinho de compras.
+:heavy_check_mark: Diminuir e aumentar a quantidade de itens do carrinho de compras.
 
-:x: Exibir valor total dos itens do carrinho de compras.
+:heavy_check_mark: Exibir valor total dos itens do carrinho de compras.
 
 ## Iniciando banco de dados
 
@@ -55,10 +55,13 @@ yarn test
 
 ## Layout da Aplicação :dash:
 
-**Dashboard**
+### Dashboard
 
-<img src="" width="270" heigth="480" />
-<img src="" max-width="270" max-heigth="480" />
+<img src="https://github.com/MGustav0/desafio-gostack-fundamentos-react-native/blob/master/extras/01_-_dashboard.jpg" width="270" heigth="480" />
+
+### Carrinho de Compras
+
+<img src="https://github.com/MGustav0/desafio-gostack-fundamentos-react-native/blob/master/extras/02_-_cart.jpg" max-width="270" max-heigth="480" />
 
 ## Resolvendo Problemas :exclamation:
 
