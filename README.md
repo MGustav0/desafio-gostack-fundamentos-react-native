@@ -61,7 +61,7 @@ yarn test
 
 ### Carrinho de Compras
 
-<img src="https://github.com/MGustav0/desafio-gostack-fundamentos-react-native/blob/master/extras/02_-_cart.jpg" min-width="270" min-heigth="480" />
+<img src="https://github.com/MGustav0/desafio-gostack-fundamentos-react-native/blob/master/extras/02_-_cart.jpg" width="270" heigth="480" />
 
 ## Resolvendo Problemas :exclamation:
 
